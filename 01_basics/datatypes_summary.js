@@ -46,7 +46,7 @@ console.log(myName);
 console.log(anotherName);
 
 let userOne = {
-    email: "user@google.com"
+    email: "user@google.com",
     upi: "user@byl"
 }
 
@@ -66,7 +66,7 @@ Reference/Non primitive data types -> call by reference
 (array,object,function) -> heap memory
 
 JavaScript is a dynamically typed language. This means that you don't 
-need to specify the data type of a variable when you declare it. */
+need to specify the data type of a variable when you declare it. 
 
 
 /* Primitive types:
@@ -77,4 +77,4 @@ need to specify the data type of a variable when you declare it. */
    Reference types:
 1. stored in heap.
 2. accessed via references(stored in stack).
-3. changing the value through another reference affects the original.
+3. changing the value through another reference affects the original.*/
